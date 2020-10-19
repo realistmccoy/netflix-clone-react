@@ -12,11 +12,6 @@ function App() {
 				fetchUrl={requests.fetchNetflexOriginals}
 			/>
 			<Row title='Trending Now' fetchUrl={requests.fetchTrending} />
-			<Row title='' />
-			<Row title='' />
-			<Row title='' />
-			<Row title='' />
-			<Row title='' />
 		</div>
 	);
 }
