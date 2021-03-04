@@ -1,5 +1,4 @@
-const API_KEY =
-	'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiOGNhZWM3NGJkMTgzZjkxYmM4ZGFmMTA3MDk0ZDQ2MiIsInN1YiI6IjVmODI0MjViMTc1MDUxMDAzOTk1NzY4MCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.8ePRYOh1enSwmZ0A2q5tnompBPtd3NzeBxSSXBw4vog';
+const API_KEY = 'b8caec74bd183f91bc8daf107094d462';
 
 const requests = {
 	fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
